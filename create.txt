@@ -1,3 +1,7 @@
+-- Language: SQL
+
+
+
 CREATE TABLE payment (
   payment_id SMALLINT(5) UNSIGNED NOT NULL AUTO_INCREMENT,
   customer_id SMALLINT(5) UNSIGNED NOT NULL,

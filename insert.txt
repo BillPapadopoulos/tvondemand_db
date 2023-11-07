@@ -1,3 +1,6 @@
+-- Language: SQL
+
+
 INSERT INTO `employee` (`employee_id`, `first_name`, `last_name`, `email`, `address_id`) VALUES
 (324, 'CRISTIANO', 'RONALDO', 'RONALDO@sakilacustomer.org', 237),
 (312, 'HUDSON', 'ODOI', 'ODOI@sakilaemployee.org', 45),
